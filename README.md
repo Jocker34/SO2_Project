@@ -1,4 +1,4 @@
-# so2_projects
+# SO2_Projects
 
 Programy stworzone na projekt z Systemów Operacyjnych 2 - programy wielowątkowe w C++.
 Użyte biblioteki:
