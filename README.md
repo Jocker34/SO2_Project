@@ -6,8 +6,8 @@ Użyte biblioteki:
  - pthreads
 
 Poszczególne projekty:
-  - 01_balls - co 5 sekund program wysyła piłeczkę w 1 z 8 kierunków. Kierunek losowy, 3 typy prędkości, piłeczki nie odbijają się.
+  - Etap_1 - co 5 sekund program wysyła piłeczkę w 1 z 8 kierunków. Kierunek losowy, 3 typy prędkości, piłeczki nie odbijają się.
        ```sh 
-        g++ src/Ball.cpp main.cpp -lncurses && ./main.out
-  - 02_???
-  - 03_???
+        g++ src/Ball.cpp main.cpp -lncurses -pthread && ./a.out
+  - Etap_2
+  - Etap_3
